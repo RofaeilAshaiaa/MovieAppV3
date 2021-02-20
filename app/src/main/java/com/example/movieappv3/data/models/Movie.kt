@@ -12,5 +12,5 @@ data class Movie(
     var releaseDate: String,
     var rating: String
 ) {
-    constructor() : this("", "", "", "", "", "")
+    constructor() : this("0", "", "", "", "", "")
 }
