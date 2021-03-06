@@ -3,7 +3,7 @@ buildscript {
     // Define versions in a single place
     ext {
         //kotlin
-        kotlinVersion = "1.4.30"
+        kotlinVersion = "1.4.31"
         coroutinesVersion = "1.4.2"
 
         // Sdk and tools

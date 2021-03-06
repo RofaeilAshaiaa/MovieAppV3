@@ -1,4 +1,4 @@
-package com.example.movieappv3.data.models
+package com.example.datalayer.data.models
 
 /**
  * @author Rofaeil Ashaiaa

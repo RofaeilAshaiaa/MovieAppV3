@@ -4,8 +4,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.example.datalayer.data.models.Movie
 import com.example.movieappv3.R
-import com.example.movieappv3.data.models.Movie
 import com.example.movieappv3.databinding.MovieItemBinding
 
 /**

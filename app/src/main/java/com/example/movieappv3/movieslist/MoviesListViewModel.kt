@@ -2,7 +2,7 @@ package com.example.movieappv3.movieslist
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.movieappv3.data.models.Movie
+import com.example.datalayer.data.models.Movie
 
 class MoviesListViewModel : ViewModel() {
 
